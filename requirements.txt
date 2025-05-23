@@ -1,0 +1,18 @@
+# Interface gráfica
+tk
+
+# Processamento de áudio e gravação
+pyaudio
+wave
+numpy
+
+# Modelo Whisper
+openai-whisper
+
+# Transcrição e digitação automática
+pyautogui
+keyboard
+unicodedata2  # Adicionado para sistemas onde unicodedata não vem embutido
+
+# Utilitários
+platformdirs
